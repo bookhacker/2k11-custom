@@ -1,0 +1,140 @@
+.no-nav {
+    border-bottom: none;
+}
+
+#banner > img {
+    width: 100%;
+}
+
+#identity p {
+    color: #ffffff;
+    opacity: 0.90;
+}
+
+#page {
+    background: transparent;
+    border: none;
+    margin: 0 auto 1em;
+    max-width: 1600px
+    width: 100%;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+a {
+    color: #b22222;
+    /* color: #666; */
+    text-decoration: none;
+}
+
+a:hover {
+    /*    color:#b22222; */
+    color: #666;
+    text-decoration:underline
+}
+
+a > img:hover {
+    background-color: #000;
+    opacity: 0.5;
+}
+
+body {
+    background: #fcfcfc;
+    padding: 0;
+}
+
+div#page > div.clearfix.col3 {
+    margin-top: 30px;
+}
+
+div#page > header#banner > div#identity > a:hover {
+    opacity: 0.85;
+}
+
+footer.clearfix > a,
+li.next > a,
+li.prev > a {
+    color: #666;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+footer.clearfix > a:hover,
+li.next > a:hover,
+li.prev > a:hover {
+    color: #b22222;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #666;
+}
+
+header#banner {
+    background: url("/uploads/rubens-medusa_1120x644_60.jpg") no-repeat top center fixed;
+/*
+    background-size: auto auto;
+    background-size: cover;
+*/
+    height: 644px;
+    width: 100%;
+    /*
+    margin: 0;
+    margin-top: 0px;
+    padding: 0;
+    color: white;
+    text-align: left;
+    margin-top: 30px;
+*/
+}
+
+header > #identity {
+    position: static;
+    margin-top: 530px;
+}
+
+header > #searchform {
+    display: none;
+}
+
+header > div > a > h1 {
+    color: #ffffff;
+    opacity: 0.90;
+}
+
+header > div > a > p {
+    color: #ffffff;
+    opacity: 0.90;
+}
+
+main > article > header > h2 > a {
+    color: #666;
+}
+
+main > article > header > h2 > a:hover {
+    color: #b22222;
+}
+
+.read_more {
+    color: #666;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+a.read_more:hover {
+    color: #b22222;
+}
+
+.single_user > a {
+    /* color: #b22222; */
+}
+
+/*
+  "Current rentries"-plugin
+*/
+dt {
+    font-weight: normal;
+}
