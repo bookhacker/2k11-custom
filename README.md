@@ -1,6 +1,8 @@
 # 2k11-custom
 Customizations of [Serendipity](https://github.com/s9y/Serendipity "Serendipity blog software") (s9y) [2k11 theme](https://github.com/s9y/Serendipity/tree/master/templates/2k11 "2k11 theme").
 
+<img src="https://bookhacker.org/uploads/website_60.jpg" width="640" alt="website bookhacker.org screenshot" title="website bookhacker.org screenshot">
+
 ## Installation
 
 + 2k11 als Theme auswählen
