@@ -24,12 +24,10 @@
 
 a {
     color: #b22222;
-    /* color: #666; */
     text-decoration: none;
 }
 
 a:hover {
-    /*    color:#b22222; */
     color: #666;
     text-decoration:underline
 }
@@ -75,20 +73,8 @@ h4 {
 
 header#banner {
     background: url("/uploads/rubens-medusa_1120x644_60.jpg") no-repeat top center fixed;
-/*
-    background-size: auto auto;
-    background-size: cover;
-*/
     height: 644px;
     width: 100%;
-    /*
-    margin: 0;
-    margin-top: 0px;
-    padding: 0;
-    color: white;
-    text-align: left;
-    margin-top: 30px;
-*/
 }
 
 header > #identity {
@@ -97,7 +83,7 @@ header > #identity {
 }
 
 header > #searchform {
-    display: none;
+    margin-top: 520px;
 }
 
 header > div > a > h1 {
